@@ -1,3 +1,5 @@
+![banner](https://raw.githubusercontent.com/mehmetsinanyesilyurt/mehmetsinanyesilyurt/main/banner_mehmetsinanyesilyurt.gif)
+
 <!-- Mehmet Sinan Yeşilyurt - GitHub Profile README -->
 
 <h1 align="center">👋 Merhaba, ben Mehmet Sinan Yeşilyurt</h1>
