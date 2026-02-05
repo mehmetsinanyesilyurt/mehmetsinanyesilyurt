@@ -3,7 +3,7 @@
 <!-- Mehmet Sinan Yeşilyurt - GitHub Profile README -->
 
 <h1 align="center">👋 Merhaba, ben Mehmet Sinan Yeşilyurt</h1>
-<h3 align="center">FinTech & Ödeme Sistemleri Odaklı Yazılım Geliştirici 💳💻</h3>
+
 
 <p align="center">
   <a href="mailto:mehmetsinanyesilyurt@gmail.com">📧 E-posta</a> •
