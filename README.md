@@ -3,7 +3,6 @@
 <!-- Mehmet Sinan Yeşilyurt - GitHub Profile README -->
 
 <h1 align="center">👋 Merhaba, ben Mehmet Sinan Yeşilyurt</h1>
-<h1 align="center">VakıfBank Sistem Operasyonları Müdürlüğünde İntern olarak çalışıyorum.</h1>
 
 
 <p align="center">
@@ -16,7 +15,7 @@
 
 ### 🚀 Hakkımda
 🎓 Akdeniz Üniversitesi **Yönetim Bilişim Sistemleri** 4. sınıf öğrencisiyim.  
-
+VakıfBank Sistem Operasyonları Müdürlüğünde İntern olarak çalışıyorum.
 ---
 
 ### 🧰 Teknik Beceriler
